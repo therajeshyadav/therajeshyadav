@@ -40,8 +40,8 @@
 
 - **Languages & Frameworks:** JavaScript, React, Node.js, Express, Next.js
 - **Databases:** MongoDB, MySQL, PostgreSQL, Prisma, SQL
-- **Tech:** REST API, Git, Linux, Cloud Computing
-- **Other:** Agile/Scrum, Team Collaboration, Problem Solving
+- **Tech:** REST API, Git, Cloud Computing
+- **Other:**  Problem Solving
 
 ---
 
